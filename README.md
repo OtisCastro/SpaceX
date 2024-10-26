@@ -1,2 +1,2 @@
 # SpaceX
-Predicting if Tesla's Falcon 9 first stage will land successfully
+Predicting if SpaceX's Falcon 9 first stage will land successfully
